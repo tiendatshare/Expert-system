@@ -1,0 +1,304 @@
+If patient has itching, skin_rash, nodal_skin_eruptions, dischromic _patches, then patient may have Fungal infection.
+If patient has skin_rash, nodal_skin_eruptions, dischromic _patches, then patient may have Fungal infection.
+If patient has itching, nodal_skin_eruptions, dischromic _patches, then patient may have Fungal infection.
+If patient has itching, skin_rash, dischromic _patches, then patient may have Fungal infection.
+If patient has itching, skin_rash, nodal_skin_eruptions, then patient may have Fungal infection.
+If patient has continuous_sneezing, shivering, chills, watering_from_eyes, then patient may have Allergy.
+If patient has shivering, chills, watering_from_eyes, then patient may have Allergy.
+If patient has continuous_sneezing, chills, watering_from_eyes, then patient may have Allergy.
+If patient has continuous_sneezing, shivering, watering_from_eyes, then patient may have Allergy.
+If patient has continuous_sneezing, shivering, chills, then patient may have Allergy.
+If patient has stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain, then patient may have GERD.
+If patient has stomach_pain, ulcers_on_tongue, vomiting, cough, chest_pain, then patient may have GERD.
+If patient has stomach_pain, acidity, vomiting, cough, chest_pain, then patient may have GERD.
+If patient has stomach_pain, acidity, ulcers_on_tongue, cough, chest_pain, then patient may have GERD.
+If patient has stomach_pain, acidity, ulcers_on_tongue, vomiting, chest_pain, then patient may have GERD.
+If patient has stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, then patient may have GERD.
+If patient has acidity, ulcers_on_tongue, vomiting, cough, chest_pain, then patient may have GERD.
+If patient has itching, vomiting, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, then patient may have Chronic cholestasis.
+If patient has vomiting, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, then patient may have Chronic cholestasis.
+If patient has itching, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, then patient may have Chronic cholestasis.
+If patient has itching, vomiting, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, then patient may have Chronic cholestasis.
+If patient has itching, vomiting, yellowish_skin, loss_of_appetite, abdominal_pain, yellowing_of_eyes, then patient may have Chronic cholestasis.
+If patient has itching, vomiting, yellowish_skin, nausea, abdominal_pain, yellowing_of_eyes, then patient may have Chronic cholestasis.
+If patient has itching, vomiting, yellowish_skin, nausea, loss_of_appetite, yellowing_of_eyes, then patient may have Chronic cholestasis.
+If patient has itching, vomiting, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, then patient may have Chronic cholestasis.
+If patient has itching, skin_rash, stomach_pain, burning_micturition, spotting_ urination, then patient may have Drug Reaction.
+If patient has itching, stomach_pain, burning_micturition, spotting_ urination, then patient may have Drug Reaction.
+If patient has itching, skin_rash, burning_micturition, spotting_ urination, then patient may have Drug Reaction.
+If patient has itching, skin_rash, stomach_pain, spotting_ urination, then patient may have Drug Reaction.
+If patient has itching, skin_rash, stomach_pain, burning_micturition, then patient may have Drug Reaction.
+If patient has skin_rash, stomach_pain, burning_micturition, spotting_ urination, then patient may have Drug Reaction.
+If patient has vomiting, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching, then patient may have Peptic ulcer diseae.
+If patient has vomiting, indigestion, abdominal_pain, passage_of_gases, internal_itching, then patient may have Peptic ulcer diseae.
+If patient has indigestion, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching, then patient may have Peptic ulcer diseae.
+If patient has vomiting, indigestion, loss_of_appetite, passage_of_gases, internal_itching, then patient may have Peptic ulcer diseae.
+If patient has vomiting, indigestion, loss_of_appetite, abdominal_pain, internal_itching, then patient may have Peptic ulcer diseae.
+If patient has vomiting, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases, then patient may have Peptic ulcer diseae.
+If patient has vomiting, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases, internal_itching, then patient may have Peptic ulcer diseae.
+If patient has muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts, then patient may have AIDS.
+If patient has patches_in_throat, high_fever, extra_marital_contacts, then patient may have AIDS.
+If patient has muscle_wasting, high_fever, extra_marital_contacts, then patient may have AIDS.
+If patient has muscle_wasting, patches_in_throat, extra_marital_contacts, then patient may have AIDS.
+If patient has muscle_wasting, patches_in_throat, high_fever, then patient may have AIDS.
+If patient has fatigue, weight_loss, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria, then patient may have Diabetes .
+If patient has weight_loss, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria, then patient may have Diabetes .
+If patient has fatigue, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria, then patient may have Diabetes .
+If patient has fatigue, weight_loss, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria, then patient may have Diabetes .
+If patient has fatigue, weight_loss, restlessness, irregular_sugar_level, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria, then patient may have Diabetes .
+If patient has fatigue, weight_loss, restlessness, lethargy, blurred_and_distorted_vision, obesity, excessive_hunger, increased_appetite, polyuria, then patient may have Diabetes .
+If patient has fatigue, weight_loss, restlessness, lethargy, irregular_sugar_level, obesity, excessive_hunger, increased_appetite, polyuria, then patient may have Diabetes .
+If patient has fatigue, weight_loss, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, excessive_hunger, increased_appetite, polyuria, then patient may have Diabetes .
+If patient has fatigue, weight_loss, restlessness, lethargy, irregular_sugar_level, blurred_and_distorted_vision, obesity, increased_appetite, polyuria, then patient may have Diabetes .
+If patient has vomiting, sunken_eyes, dehydration, diarrhoea, then patient may have Gastroenteritis.
+If patient has sunken_eyes, dehydration, diarrhoea, then patient may have Gastroenteritis.
+If patient has vomiting, dehydration, diarrhoea, then patient may have Gastroenteritis.
+If patient has vomiting, sunken_eyes, diarrhoea, then patient may have Gastroenteritis.
+If patient has vomiting, sunken_eyes, dehydration, then patient may have Gastroenteritis.
+If patient has fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum, then patient may have Bronchial Asthma.
+If patient has cough, high_fever, breathlessness, family_history, mucoid_sputum, then patient may have Bronchial Asthma.
+If patient has fatigue, high_fever, breathlessness, family_history, mucoid_sputum, then patient may have Bronchial Asthma.
+If patient has fatigue, cough, breathlessness, family_history, mucoid_sputum, then patient may have Bronchial Asthma.
+If patient has fatigue, cough, high_fever, family_history, mucoid_sputum, then patient may have Bronchial Asthma.
+If patient has fatigue, cough, high_fever, breathlessness, mucoid_sputum, then patient may have Bronchial Asthma.
+If patient has fatigue, cough, high_fever, breathlessness, family_history, then patient may have Bronchial Asthma.
+If patient has headache, chest_pain, dizziness, loss_of_balance, lack_of_concentration, then patient may have Hypertension .
+If patient has chest_pain, dizziness, loss_of_balance, lack_of_concentration, then patient may have Hypertension .
+If patient has headache, dizziness, loss_of_balance, lack_of_concentration, then patient may have Hypertension .
+If patient has headache, chest_pain, loss_of_balance, lack_of_concentration, then patient may have Hypertension .
+If patient has headache, chest_pain, dizziness, lack_of_concentration, then patient may have Hypertension .
+If patient has headache, chest_pain, dizziness, loss_of_balance, then patient may have Hypertension .
+If patient has acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances, then patient may have Migraine.
+If patient has indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances, then patient may have Migraine.
+If patient has acidity, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances, then patient may have Migraine.
+If patient has acidity, indigestion, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances, then patient may have Migraine.
+If patient has acidity, indigestion, headache, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances, then patient may have Migraine.
+If patient has acidity, indigestion, headache, blurred_and_distorted_vision, stiff_neck, depression, irritability, visual_disturbances, then patient may have Migraine.
+If patient has acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, depression, irritability, visual_disturbances, then patient may have Migraine.
+If patient has acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, irritability, visual_disturbances, then patient may have Migraine.
+If patient has acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, visual_disturbances, then patient may have Migraine.
+If patient has acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, then patient may have Migraine.
+If patient has back_pain, weakness_in_limbs, neck_pain, dizziness, loss_of_balance, then patient may have Cervical spondylosis.
+If patient has weakness_in_limbs, neck_pain, dizziness, loss_of_balance, then patient may have Cervical spondylosis.
+If patient has back_pain, neck_pain, dizziness, loss_of_balance, then patient may have Cervical spondylosis.
+If patient has back_pain, weakness_in_limbs, dizziness, loss_of_balance, then patient may have Cervical spondylosis.
+If patient has back_pain, weakness_in_limbs, neck_pain, loss_of_balance, then patient may have Cervical spondylosis.
+If patient has back_pain, weakness_in_limbs, neck_pain, dizziness, then patient may have Cervical spondylosis.
+If patient has vomiting, headache, weakness_of_one_body_side, altered_sensorium, then patient may have Paralysis (brain hemorrhage).
+If patient has headache, weakness_of_one_body_side, altered_sensorium, then patient may have Paralysis (brain hemorrhage).
+If patient has vomiting, weakness_of_one_body_side, altered_sensorium, then patient may have Paralysis (brain hemorrhage).
+If patient has vomiting, headache, altered_sensorium, then patient may have Paralysis (brain hemorrhage).
+If patient has vomiting, headache, weakness_of_one_body_side, then patient may have Paralysis (brain hemorrhage).
+If patient has itching, vomiting, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain, then patient may have Jaundice.
+If patient has vomiting, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain, then patient may have Jaundice.
+If patient has itching, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain, then patient may have Jaundice.
+If patient has itching, vomiting, weight_loss, high_fever, yellowish_skin, dark_urine, abdominal_pain, then patient may have Jaundice.
+If patient has itching, vomiting, fatigue, high_fever, yellowish_skin, dark_urine, abdominal_pain, then patient may have Jaundice.
+If patient has itching, vomiting, fatigue, weight_loss, yellowish_skin, dark_urine, abdominal_pain, then patient may have Jaundice.
+If patient has itching, vomiting, fatigue, weight_loss, high_fever, dark_urine, abdominal_pain, then patient may have Jaundice.
+If patient has itching, vomiting, fatigue, weight_loss, high_fever, yellowish_skin, abdominal_pain, then patient may have Jaundice.
+If patient has itching, vomiting, fatigue, weight_loss, high_fever, yellowish_skin, dark_urine, then patient may have Jaundice.
+If patient has chills, vomiting, high_fever, sweating, headache, nausea, muscle_pain, then patient may have Malaria.
+If patient has chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain, then patient may have Malaria.
+If patient has vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain, then patient may have Malaria.
+If patient has chills, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain, then patient may have Malaria.
+If patient has chills, vomiting, sweating, headache, nausea, diarrhoea, muscle_pain, then patient may have Malaria.
+If patient has chills, vomiting, high_fever, headache, nausea, diarrhoea, muscle_pain, then patient may have Malaria.
+If patient has chills, vomiting, high_fever, sweating, nausea, diarrhoea, muscle_pain, then patient may have Malaria.
+If patient has chills, vomiting, high_fever, sweating, headache, diarrhoea, muscle_pain, then patient may have Malaria.
+If patient has itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body, then patient may have Chicken pox.
+If patient has skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body, then patient may have Chicken pox.
+If patient has itching, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body, then patient may have Chicken pox.
+If patient has itching, skin_rash, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body, then patient may have Chicken pox.
+If patient has itching, skin_rash, fatigue, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body, then patient may have Chicken pox.
+If patient has itching, skin_rash, fatigue, lethargy, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body, then patient may have Chicken pox.
+If patient has itching, skin_rash, fatigue, lethargy, high_fever, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body, then patient may have Chicken pox.
+If patient has itching, skin_rash, fatigue, lethargy, high_fever, headache, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body, then patient may have Chicken pox.
+If patient has itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, swelled_lymph_nodes, malaise, red_spots_over_body, then patient may have Chicken pox.
+If patient has itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, malaise, red_spots_over_body, then patient may have Chicken pox.
+If patient has skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, muscle_pain, red_spots_over_body, then patient may have Dengue.
+If patient has skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, red_spots_over_body, then patient may have Dengue.
+If patient has skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, then patient may have Dengue.
+If patient has skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body, then patient may have Dengue.
+If patient has chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body, then patient may have Dengue.
+If patient has skin_rash, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body, then patient may have Dengue.
+If patient has skin_rash, chills, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body, then patient may have Dengue.
+If patient has skin_rash, chills, joint_pain, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body, then patient may have Dengue.
+If patient has skin_rash, chills, joint_pain, vomiting, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body, then patient may have Dengue.
+If patient has skin_rash, chills, joint_pain, vomiting, fatigue, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body, then patient may have Dengue.
+If patient has chills, vomiting, fatigue, high_fever, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain, then patient may have Typhoid.
+If patient has chills, vomiting, fatigue, high_fever, headache, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain, then patient may have Typhoid.
+If patient has chills, vomiting, fatigue, high_fever, headache, nausea, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain, then patient may have Typhoid.
+If patient has chills, vomiting, fatigue, high_fever, headache, nausea, constipation, diarrhoea, toxic_look_(typhos), belly_pain, then patient may have Typhoid.
+If patient has chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, toxic_look_(typhos), belly_pain, then patient may have Typhoid.
+If patient has chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, belly_pain, then patient may have Typhoid.
+If patient has chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), then patient may have Typhoid.
+If patient has chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain, then patient may have Typhoid.
+If patient has chills, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain, then patient may have Typhoid.
+If patient has joint_pain, vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain, then patient may have hepatitis A.
+If patient has vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain, then patient may have hepatitis A.
+If patient has joint_pain, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain, then patient may have hepatitis A.
+If patient has joint_pain, vomiting, dark_urine, nausea, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain, then patient may have hepatitis A.
+If patient has joint_pain, vomiting, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain, then patient may have hepatitis A.
+If patient has joint_pain, vomiting, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain, then patient may have hepatitis A.
+If patient has joint_pain, vomiting, yellowish_skin, dark_urine, nausea, abdominal_pain, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain, then patient may have hepatitis A.
+If patient has joint_pain, vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, diarrhoea, mild_fever, yellowing_of_eyes, muscle_pain, then patient may have hepatitis A.
+If patient has joint_pain, vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, mild_fever, yellowing_of_eyes, muscle_pain, then patient may have hepatitis A.
+If patient has itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections, then patient may have Hepatitis B.
+If patient has fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections, then patient may have Hepatitis B.
+If patient has itching, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections, then patient may have Hepatitis B.
+If patient has itching, fatigue, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections, then patient may have Hepatitis B.
+If patient has itching, fatigue, lethargy, dark_urine, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections, then patient may have Hepatitis B.
+If patient has itching, fatigue, lethargy, yellowish_skin, loss_of_appetite, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections, then patient may have Hepatitis B.
+If patient has itching, fatigue, lethargy, yellowish_skin, dark_urine, abdominal_pain, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections, then patient may have Hepatitis B.
+If patient has itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, yellow_urine, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections, then patient may have Hepatitis B.
+If patient has itching, fatigue, lethargy, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellowing_of_eyes, malaise, receiving_blood_transfusion, receiving_unsterile_injections, then patient may have Hepatitis B.
+If patient has fatigue, yellowish_skin, nausea, loss_of_appetite, family_history, then patient may have Hepatitis C.
+If patient has fatigue, yellowish_skin, nausea, loss_of_appetite, yellowing_of_eyes, family_history, then patient may have Hepatitis C.
+If patient has yellowish_skin, nausea, loss_of_appetite, yellowing_of_eyes, family_history, then patient may have Hepatitis C.
+If patient has fatigue, nausea, loss_of_appetite, yellowing_of_eyes, family_history, then patient may have Hepatitis C.
+If patient has fatigue, yellowish_skin, loss_of_appetite, yellowing_of_eyes, family_history, then patient may have Hepatitis C.
+If patient has fatigue, yellowish_skin, nausea, yellowing_of_eyes, family_history, then patient may have Hepatitis C.
+If patient has fatigue, yellowish_skin, nausea, loss_of_appetite, yellowing_of_eyes, then patient may have Hepatitis C.
+If patient has joint_pain, vomiting, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, then patient may have Hepatitis D.
+If patient has vomiting, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, then patient may have Hepatitis D.
+If patient has joint_pain, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, then patient may have Hepatitis D.
+If patient has joint_pain, vomiting, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, then patient may have Hepatitis D.
+If patient has joint_pain, vomiting, fatigue, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, then patient may have Hepatitis D.
+If patient has joint_pain, vomiting, fatigue, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, then patient may have Hepatitis D.
+If patient has joint_pain, vomiting, fatigue, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellowing_of_eyes, then patient may have Hepatitis D.
+If patient has joint_pain, vomiting, fatigue, yellowish_skin, dark_urine, nausea, abdominal_pain, yellowing_of_eyes, then patient may have Hepatitis D.
+If patient has joint_pain, vomiting, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, yellowing_of_eyes, then patient may have Hepatitis D.
+If patient has joint_pain, vomiting, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, then patient may have Hepatitis D.
+If patient has joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, coma, stomach_bleeding, then patient may have Hepatitis E.
+If patient has joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding, then patient may have Hepatitis E.
+If patient has vomiting, fatigue, high_fever, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding, then patient may have Hepatitis E.
+If patient has joint_pain, fatigue, high_fever, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding, then patient may have Hepatitis E.
+If patient has joint_pain, vomiting, high_fever, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding, then patient may have Hepatitis E.
+If patient has joint_pain, vomiting, fatigue, yellowish_skin, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding, then patient may have Hepatitis E.
+If patient has joint_pain, vomiting, fatigue, high_fever, dark_urine, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding, then patient may have Hepatitis E.
+If patient has joint_pain, vomiting, fatigue, high_fever, yellowish_skin, nausea, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding, then patient may have Hepatitis E.
+If patient has joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_urine, loss_of_appetite, abdominal_pain, yellowing_of_eyes, acute_liver_failure, coma, stomach_bleeding, then patient may have Hepatitis E.
+If patient has vomiting, yellowish_skin, abdominal_pain, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload, then patient may have Alcoholic hepatitis.
+If patient has yellowish_skin, abdominal_pain, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload, then patient may have Alcoholic hepatitis.
+If patient has vomiting, abdominal_pain, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload, then patient may have Alcoholic hepatitis.
+If patient has vomiting, yellowish_skin, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload, then patient may have Alcoholic hepatitis.
+If patient has vomiting, yellowish_skin, abdominal_pain, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload, then patient may have Alcoholic hepatitis.
+If patient has vomiting, yellowish_skin, abdominal_pain, swelling_of_stomach, history_of_alcohol_consumption, fluid_overload, then patient may have Alcoholic hepatitis.
+If patient has vomiting, yellowish_skin, abdominal_pain, swelling_of_stomach, distention_of_abdomen, fluid_overload, then patient may have Alcoholic hepatitis.
+If patient has vomiting, yellowish_skin, abdominal_pain, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption, then patient may have Alcoholic hepatitis.
+If patient has chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum, then patient may have Tuberculosis.
+If patient has vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum, then patient may have Tuberculosis.
+If patient has chills, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum, then patient may have Tuberculosis.
+If patient has chills, vomiting, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum, then patient may have Tuberculosis.
+If patient has chills, vomiting, fatigue, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum, then patient may have Tuberculosis.
+If patient has chills, vomiting, fatigue, weight_loss, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum, then patient may have Tuberculosis.
+If patient has chills, vomiting, fatigue, weight_loss, cough, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum, then patient may have Tuberculosis.
+If patient has chills, vomiting, fatigue, weight_loss, cough, high_fever, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum, then patient may have Tuberculosis.
+If patient has chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum, then patient may have Tuberculosis.
+If patient has continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain, then patient may have Common Cold.
+If patient has chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain, then patient may have Common Cold.
+If patient has continuous_sneezing, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain, then patient may have Common Cold.
+If patient has continuous_sneezing, chills, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain, then patient may have Common Cold.
+If patient has continuous_sneezing, chills, fatigue, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain, then patient may have Common Cold.
+If patient has continuous_sneezing, chills, fatigue, cough, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain, then patient may have Common Cold.
+If patient has continuous_sneezing, chills, fatigue, cough, high_fever, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain, then patient may have Common Cold.
+If patient has continuous_sneezing, chills, fatigue, cough, high_fever, headache, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain, then patient may have Common Cold.
+If patient has continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain, then patient may have Common Cold.
+If patient has chills, fatigue, cough, high_fever, breathlessness, sweating, malaise, chest_pain, fast_heart_rate, rusty_sputum, then patient may have Pneumonia.
+If patient has chills, fatigue, cough, high_fever, breathlessness, sweating, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum, then patient may have Pneumonia.
+If patient has fatigue, cough, high_fever, breathlessness, sweating, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum, then patient may have Pneumonia.
+If patient has chills, cough, high_fever, breathlessness, sweating, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum, then patient may have Pneumonia.
+If patient has chills, fatigue, high_fever, breathlessness, sweating, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum, then patient may have Pneumonia.
+If patient has chills, fatigue, cough, breathlessness, sweating, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum, then patient may have Pneumonia.
+If patient has chills, fatigue, cough, high_fever, sweating, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum, then patient may have Pneumonia.
+If patient has chills, fatigue, cough, high_fever, breathlessness, malaise, phlegm, chest_pain, fast_heart_rate, rusty_sputum, then patient may have Pneumonia.
+If patient has chills, fatigue, cough, high_fever, breathlessness, sweating, phlegm, chest_pain, fast_heart_rate, rusty_sputum, then patient may have Pneumonia.
+If patient has constipation, pain_during_bowel_movements, pain_in_anal_region, bloody_stool, irritation_in_anus, then patient may have Dimorphic hemmorhoids(piles).
+If patient has pain_during_bowel_movements, pain_in_anal_region, bloody_stool, irritation_in_anus, then patient may have Dimorphic hemmorhoids(piles).
+If patient has constipation, pain_in_anal_region, bloody_stool, irritation_in_anus, then patient may have Dimorphic hemmorhoids(piles).
+If patient has constipation, pain_during_bowel_movements, bloody_stool, irritation_in_anus, then patient may have Dimorphic hemmorhoids(piles).
+If patient has constipation, pain_during_bowel_movements, pain_in_anal_region, irritation_in_anus, then patient may have Dimorphic hemmorhoids(piles).
+If patient has constipation, pain_during_bowel_movements, pain_in_anal_region, bloody_stool, then patient may have Dimorphic hemmorhoids(piles).
+If patient has vomiting, breathlessness, sweating, chest_pain, then patient may have Heart attack.
+If patient has breathlessness, sweating, chest_pain, then patient may have Heart attack.
+If patient has vomiting, sweating, chest_pain, then patient may have Heart attack.
+If patient has vomiting, breathlessness, chest_pain, then patient may have Heart attack.
+If patient has vomiting, breathlessness, sweating, then patient may have Heart attack.
+If patient has fatigue, cramps, bruising, obesity, swollen_legs, swollen_blood_vessels, prominent_veins_on_calf, then patient may have Varicose veins.
+If patient has cramps, bruising, obesity, swollen_legs, swollen_blood_vessels, prominent_veins_on_calf, then patient may have Varicose veins.
+If patient has fatigue, bruising, obesity, swollen_legs, swollen_blood_vessels, prominent_veins_on_calf, then patient may have Varicose veins.
+If patient has fatigue, cramps, obesity, swollen_legs, swollen_blood_vessels, prominent_veins_on_calf, then patient may have Varicose veins.
+If patient has fatigue, cramps, bruising, swollen_legs, swollen_blood_vessels, prominent_veins_on_calf, then patient may have Varicose veins.
+If patient has fatigue, cramps, bruising, obesity, swollen_blood_vessels, prominent_veins_on_calf, then patient may have Varicose veins.
+If patient has fatigue, cramps, bruising, obesity, swollen_legs, prominent_veins_on_calf, then patient may have Varicose veins.
+If patient has fatigue, cramps, bruising, obesity, swollen_legs, swollen_blood_vessels, then patient may have Varicose veins.
+If patient has fatigue, weight_gain, cold_hands_and_feets, mood_swings, lethargy, dizziness, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation, then patient may have Hypothyroidism.
+If patient has weight_gain, cold_hands_and_feets, mood_swings, lethargy, dizziness, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation, then patient may have Hypothyroidism.
+If patient has fatigue, cold_hands_and_feets, mood_swings, lethargy, dizziness, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation, then patient may have Hypothyroidism.
+If patient has fatigue, weight_gain, mood_swings, lethargy, dizziness, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation, then patient may have Hypothyroidism.
+If patient has fatigue, weight_gain, cold_hands_and_feets, lethargy, dizziness, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation, then patient may have Hypothyroidism.
+If patient has fatigue, weight_gain, cold_hands_and_feets, mood_swings, dizziness, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation, then patient may have Hypothyroidism.
+If patient has fatigue, weight_gain, cold_hands_and_feets, mood_swings, lethargy, puffy_face_and_eyes, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation, then patient may have Hypothyroidism.
+If patient has fatigue, weight_gain, cold_hands_and_feets, mood_swings, lethargy, dizziness, enlarged_thyroid, brittle_nails, swollen_extremeties, depression, irritability, abnormal_menstruation, then patient may have Hypothyroidism.
+If patient has fatigue, mood_swings, weight_loss, restlessness, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation, then patient may have Hyperthyroidism.
+If patient has mood_swings, weight_loss, restlessness, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation, then patient may have Hyperthyroidism.
+If patient has fatigue, weight_loss, restlessness, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation, then patient may have Hyperthyroidism.
+If patient has fatigue, mood_swings, restlessness, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation, then patient may have Hyperthyroidism.
+If patient has fatigue, mood_swings, weight_loss, sweating, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation, then patient may have Hyperthyroidism.
+If patient has fatigue, mood_swings, weight_loss, restlessness, diarrhoea, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation, then patient may have Hyperthyroidism.
+If patient has fatigue, mood_swings, weight_loss, restlessness, sweating, fast_heart_rate, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation, then patient may have Hyperthyroidism.
+If patient has fatigue, mood_swings, weight_loss, restlessness, sweating, diarrhoea, excessive_hunger, muscle_weakness, irritability, abnormal_menstruation, then patient may have Hyperthyroidism.
+If patient has fatigue, mood_swings, weight_loss, restlessness, sweating, diarrhoea, fast_heart_rate, muscle_weakness, irritability, abnormal_menstruation, then patient may have Hyperthyroidism.
+If patient has vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, slurred_speech, irritability, palpitations, then patient may have Hypoglycemia.
+If patient has vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations, then patient may have Hypoglycemia.
+If patient has fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations, then patient may have Hypoglycemia.
+If patient has vomiting, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations, then patient may have Hypoglycemia.
+If patient has vomiting, fatigue, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations, then patient may have Hypoglycemia.
+If patient has vomiting, fatigue, anxiety, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations, then patient may have Hypoglycemia.
+If patient has vomiting, fatigue, anxiety, sweating, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations, then patient may have Hypoglycemia.
+If patient has vomiting, fatigue, anxiety, sweating, headache, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations, then patient may have Hypoglycemia.
+If patient has vomiting, fatigue, anxiety, sweating, headache, nausea, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations, then patient may have Hypoglycemia.
+If patient has joint_pain, neck_pain, knee_pain, hip_joint_pain, swelling_joints, painful_walking, then patient may have Osteoarthristis.
+If patient has neck_pain, knee_pain, hip_joint_pain, swelling_joints, painful_walking, then patient may have Osteoarthristis.
+If patient has joint_pain, knee_pain, hip_joint_pain, swelling_joints, painful_walking, then patient may have Osteoarthristis.
+If patient has joint_pain, neck_pain, hip_joint_pain, swelling_joints, painful_walking, then patient may have Osteoarthristis.
+If patient has joint_pain, neck_pain, knee_pain, swelling_joints, painful_walking, then patient may have Osteoarthristis.
+If patient has joint_pain, neck_pain, knee_pain, hip_joint_pain, painful_walking, then patient may have Osteoarthristis.
+If patient has joint_pain, neck_pain, knee_pain, hip_joint_pain, swelling_joints, then patient may have Osteoarthristis.
+If patient has muscle_weakness, stiff_neck, swelling_joints, movement_stiffness, painful_walking, then patient may have Arthritis.
+If patient has stiff_neck, swelling_joints, movement_stiffness, painful_walking, then patient may have Arthritis.
+If patient has muscle_weakness, swelling_joints, movement_stiffness, painful_walking, then patient may have Arthritis.
+If patient has muscle_weakness, stiff_neck, movement_stiffness, painful_walking, then patient may have Arthritis.
+If patient has muscle_weakness, stiff_neck, swelling_joints, painful_walking, then patient may have Arthritis.
+If patient has muscle_weakness, stiff_neck, swelling_joints, movement_stiffness, then patient may have Arthritis.
+If patient has vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness, then patient may have (vertigo) Paroymsal  Positional Vertigo.
+If patient has headache, nausea, spinning_movements, loss_of_balance, unsteadiness, then patient may have (vertigo) Paroymsal  Positional Vertigo.
+If patient has vomiting, nausea, spinning_movements, loss_of_balance, unsteadiness, then patient may have (vertigo) Paroymsal  Positional Vertigo.
+If patient has vomiting, headache, spinning_movements, loss_of_balance, unsteadiness, then patient may have (vertigo) Paroymsal  Positional Vertigo.
+If patient has vomiting, headache, nausea, loss_of_balance, unsteadiness, then patient may have (vertigo) Paroymsal  Positional Vertigo.
+If patient has vomiting, headache, nausea, spinning_movements, unsteadiness, then patient may have (vertigo) Paroymsal  Positional Vertigo.
+If patient has vomiting, headache, nausea, spinning_movements, loss_of_balance, then patient may have (vertigo) Paroymsal  Positional Vertigo.
+If patient has skin_rash, pus_filled_pimples, blackheads, scurring, then patient may have Acne.
+If patient has pus_filled_pimples, blackheads, scurring, then patient may have Acne.
+If patient has skin_rash, blackheads, scurring, then patient may have Acne.
+If patient has skin_rash, pus_filled_pimples, scurring, then patient may have Acne.
+If patient has skin_rash, pus_filled_pimples, blackheads, then patient may have Acne.
+If patient has burning_micturition, bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine, then patient may have Urinary tract infection.
+If patient has bladder_discomfort, foul_smell_of urine, continuous_feel_of_urine, then patient may have Urinary tract infection.
+If patient has burning_micturition, foul_smell_of urine, continuous_feel_of_urine, then patient may have Urinary tract infection.
+If patient has burning_micturition, bladder_discomfort, continuous_feel_of_urine, then patient may have Urinary tract infection.
+If patient has burning_micturition, bladder_discomfort, foul_smell_of urine, then patient may have Urinary tract infection.
+If patient has skin_rash, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails, inflammatory_nails, then patient may have Psoriasis.
+If patient has joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails, inflammatory_nails, then patient may have Psoriasis.
+If patient has skin_rash, skin_peeling, silver_like_dusting, small_dents_in_nails, inflammatory_nails, then patient may have Psoriasis.
+If patient has skin_rash, joint_pain, silver_like_dusting, small_dents_in_nails, inflammatory_nails, then patient may have Psoriasis.
+If patient has skin_rash, joint_pain, skin_peeling, small_dents_in_nails, inflammatory_nails, then patient may have Psoriasis.
+If patient has skin_rash, joint_pain, skin_peeling, silver_like_dusting, inflammatory_nails, then patient may have Psoriasis.
+If patient has skin_rash, joint_pain, skin_peeling, silver_like_dusting, small_dents_in_nails, then patient may have Psoriasis.
+If patient has skin_rash, high_fever, blister, red_sore_around_nose, yellow_crust_ooze, then patient may have Impetigo.
+If patient has high_fever, blister, red_sore_around_nose, yellow_crust_ooze, then patient may have Impetigo.
+If patient has skin_rash, blister, red_sore_around_nose, yellow_crust_ooze, then patient may have Impetigo.
+If patient has skin_rash, high_fever, red_sore_around_nose, yellow_crust_ooze, then patient may have Impetigo.
+If patient has skin_rash, high_fever, blister, yellow_crust_ooze, then patient may have Impetigo.
+If patient has skin_rash, high_fever, blister, red_sore_around_nose, then patient may have Impetigo.

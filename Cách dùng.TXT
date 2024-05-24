@@ -1,0 +1,5 @@
+streamlit run app.py
+
+ chỉ chọn 1 checkbox và bấm "chuẩn đoán"
+tiếp sẽ rút gọn checkbox lại và lặp lại 
+ chỉ chọn 1 checkbox và bấm "chuẩn đoán" cho đến khi ra 1 căn bệnh
